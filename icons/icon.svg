@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Mi negocio de alimentos">
+  <rect width="512" height="512" rx="112" fill="#c2410c"/>
+  <circle cx="256" cy="256" r="150" fill="#fff7ed"/>
+  <circle cx="256" cy="256" r="118" fill="none" stroke="#c2410c" stroke-width="12"/>
+  <path d="M168 190v76c0 12 8 20 20 20v54M208 190v76M188 190v-0M232 190v76c0 12-8 20-20 20" fill="none" stroke="#c2410c" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M326 190c-28 14-40 46-40 84h40v66" fill="none" stroke="#c2410c" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

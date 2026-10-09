@@ -1,0 +1,11 @@
+{
+  "name": "app-emprendedor-alimentos",
+  "version": "1.0.0",
+  "description": "Gestión integral (costos, ventas, gastos, inventario, caja y resultados) para un emprendimiento de alimentos. Sin dependencias ni paso de compilación.",
+  "private": true,
+  "scripts": {
+    "test": "node --test tests/*.test.js",
+    "start": "npx serve ."
+  },
+  "engines": { "node": ">=18" }
+}
